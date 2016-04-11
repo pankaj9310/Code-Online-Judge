@@ -17,7 +17,7 @@ public class Config
     String url = "jdbc:mysql://localhost:3306/code_online_judge";
     String user = "root";
     String pass = "root";
-    //String pass = "panjasabd";
+
     public Connection getcon()
     {
         try
